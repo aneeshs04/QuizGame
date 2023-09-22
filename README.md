@@ -1,2 +1,3 @@
-# QuizGame
-Simple quiz app using React.
+# Quiz App
+
+Built completely with ReactJS using Hooks and the Context API.
